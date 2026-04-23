@@ -1,4 +1,9 @@
-# 하리보의^^ 깃헙 "git-test"
+# Git Test용 Public 저장소 야르
+
+작업 한 내용 
+> .gitignore 생성
+> hello.txt 생성
+
 
 ## 2026-04-23
 
